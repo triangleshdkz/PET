@@ -1,0 +1,30 @@
+﻿
+Common.ItemTooltip.PetBagPet=Contains a random pet
+ItemName.PetBag=Pet Bag
+ItemTooltip.PetBag={$CommonItemTooltip.RightClickToOpen}\n{$Mods.PET.Common.ItemTooltip.PetBagPet}
+ItemName.PetController=Pet Controller
+
+ItemName.BloodEel_Item=Blood Bait
+ItemTooltip.BloodEel_Item=Summons a blood eel to follow you
+BuffName.BloodEel_Buff=Blood Eel
+BuffDescription.BloodEel_Buff=It wants to eat something
+
+ItemName.StarplateVoyager_Item=Lost Satellite
+ItemTooltip.StarplateVoyager_Item=Summons a mini starplate voyager to follow you\nIt's still emitting some signals... might attract a lost machine
+BuffName.StarplateVoyager_Buff=Stargazer
+BuffDescription.StarplateVoyager_Buff=It is so happy that you found it
+
+ItemName.VlitchGigapede_Item=Friendly Vlitch Core
+ItemTooltip.VlitchGigapede_Item=Summons a friendly vlitch centipede
+BuffName.VlitchGigapede_Buff=Vlitch Centipede
+BuffDescription.VlitchGigapede_Buff=A vlitch centipede is following you
+
+ItemName.Dreadnautilus_Item=Portable Bloody Tear
+ItemTooltip.Dreadnautilus_Item=A weaker and easier to carry version of bloody tear\nDoesn't have enough power to summon the blood moon but still can summon something...\nSummons a baby dreadnautilus to follow you
+BuffName.Dreadnautilus_Buff=Baby Nautilus
+BuffDescription.Dreadnautilus_Buff=The baby nautilus is following you
+
+ItemName.Tim_Item=Mini Wizard Hat
+ItemTooltip.Tim_Item=Summons Timmy
+BuffName.Tim_Buff=Timmy
+BuffDescription.Tim_Buff=TIMMY.

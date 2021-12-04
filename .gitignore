@@ -1,0 +1,7 @@
+*.user
+*.sln
+*.editorconfig
+.vs/
+.cache/
+bin/
+obj/

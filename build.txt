@@ -1,0 +1,9 @@
+displayName = PET
+author = Triangle
+version = 0.1.0.2
+homepage = https://discord.gg/4rsGKSwe6J
+hideResources = false
+hideCode = false
+includeSource = true
+includePBD = true
+buildIgnore = *.csproj, *.user, *.sln, *.gitignore, *.editorconfig, obj\*, bin\*, .vs\*
