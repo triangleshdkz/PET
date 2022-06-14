@@ -1,1 +1,1 @@
-PET mod is a mod that aims to add pets for modded and vanilla enemies and bosses, the mod also has a pet bag system that can give the player a random pet, these are obtained from bosses and later, can be bought from an npc.
+Vanity Pack is a pretty cool mod, it does...this. Modify this file with a description of your mod.

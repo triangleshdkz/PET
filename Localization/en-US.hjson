@@ -1,0 +1,19 @@
+Mods: {
+	TVanities: {
+		ItemName: {
+			BloodBait: Blood Bait
+		}
+
+		ItemTooltip: {
+			BloodBait: Summons a blood eel to follow you
+		}
+
+		BuffName: {
+			BloodEelBuff: Blood Eel
+		}
+
+		BuffDescription: {
+			BloodEelBuff: It wants to eat something
+		}
+	}
+}
